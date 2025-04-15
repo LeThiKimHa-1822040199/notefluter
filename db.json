@@ -1,0 +1,24 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "KimHa",
+      "content": "This is a KimHa",
+      "priority": 1,
+      "createdAt": "2025-04-08T10:00:00Z",
+      "modifiedAt": "2025-04-08T10:00:00Z",
+      "tags": "sample, KimHa",
+      "color": "#FF0000"
+    },
+    {
+      "id": 2,
+      "title": " DogTris",
+      "content": "This is KimHa",
+      "priority": 2,
+      "createdAt": "2025-04-08T12:00:00Z",
+      "modifiedAt": "2025-04-08T12:00:00Z",
+      "tags": "example",
+      "color": "#00FF00"
+    }
+  ]
+}
